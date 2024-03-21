@@ -11,8 +11,8 @@ module.exports = {
         author : "Kittu",
         content : "Best movie ever"
     },
-    2 : {
-        id : 1,
+    3 : {
+        id : 3,
         author : "Mridul Kumar",
         content : "Average movie"
     }
